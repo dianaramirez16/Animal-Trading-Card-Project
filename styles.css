@@ -1,0 +1,42 @@
+body {
+  background: #72B2FF;
+  font-family: 'poppins', 'arimo', verdana;
+  font-size: 11px;
+
+}
+
+#octopuscard {
+  text-align: center;
+  width:320px;
+  border-width: thick;
+	border-style: outset;
+	border-color: #120035;
+  padding: 30px;
+  background: url(https://cdn.nickpic.host/images/pujZRW.jpg);
+  -webkit-box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+  -moz-box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+  box-shadow: 10px 10px 23px 2px rgba(0,0,0,0.48);
+}
+
+.subcard{
+  width:270px;
+  text-align: left;
+  border-style: solid;
+  border-radius: 20px;
+  background: #8AC0FF;
+  border-color: #291F2A;
+  padding: 20px;
+}
+
+.title{
+  color: #8AC0FF;
+  font-size: xx-large;
+  font-family: 'arial';
+  line-height: 16px;
+}
+
+img {
+  padding:6px;
+   border-radius: 20px;
+   border-color: #291F2A;
+}
