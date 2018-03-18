@@ -1,2 +1,2 @@
-# Zerimar
-portfolio for Diana Ramirez
+# Animal Trading Card Project
+part of portfolio for Diana Ramirez
